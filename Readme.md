@@ -81,7 +81,7 @@ Install this project with:
 ```sh
   cd my-folder
   git clone git@github.com:Tracy-miranja/Tracy-miranja/hello-microverse.git
- 
+```
 ### Usage
  
 To run the project, open index.html in your web browser.
